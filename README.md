@@ -16,7 +16,7 @@
 
 ## **Projects**
 
-### **[E-Commerce Platform with NLP-Based Recommendation](https://github.com/pallavik-pal/recomendation-model-e-commerce-site)**  
+### **[E-Commerce Platform with NLP-Based Recommendation](https://github.com/pallavik-pal/recomendation-model)**  
   **Tech Stack:** MERN Stack + NLP  
   An intelligent e-commerce platform that uses Natural Language Processing to recommend personalized products to users, enhancing the shopping experience.
 

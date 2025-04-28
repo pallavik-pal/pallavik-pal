@@ -16,13 +16,15 @@
 
 ## **Projects**
 
-### **[E-Commerce Platform with NLP-Based Recommendation](https://github.com/pallavik-pal/recomendation-model)**  
-  **Tech Stack:** MERN Stack + NLP  
-  An intelligent e-commerce platform that uses Natural Language Processing to recommend personalized products to users, enhancing the shopping experience.
-
 ### **[Real-Time Chat Application](https://github.com/pallavik-pal/MERN-chatapp)**  
+ https://mern-chatapp-fe1h.vercel.app
   **Tech Stack:** MERN Stack + Socket.io + JWT Authentication  
   A real-time chat app where users can communicate instantly, with secure authentication via JSON Web Tokens (JWT) and real-time communication using Socket.io.
+  
+### **[E-Commerce Platform with NLP-Based Recommendation](https://github.com/pallavik-pal/recomendation-model)** 
+https://recomendation-model-pallavik-pals-projects.vercel.app
+  **Tech Stack:** MERN Stack + NLP  
+  An intelligent e-commerce platform that uses Natural Language Processing to recommend personalized products to users, enhancing the shopping experience.
 
 ### **[Travel Booking Website](https://github.com/pallavik-pal/travel-website)**  
   **Tech Stack:** Frontend (HTML, CSS)  

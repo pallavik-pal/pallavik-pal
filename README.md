@@ -1,13 +1,13 @@
 # Hi there, I'm Pallavi K 👋
 
-🚀 Flutter Developer | MERN Stack Enthusiast | Machine Learning Explorer
+ Flutter Developer | MERN Stack Enthusiast | Machine Learning Explorer
 
-- 👩‍💻 Pursuing B.E. in Information Science Engineering (CGPA: 8.8)
-- 🛠️ Skilled in Flutter, Firebase, React, Node.js, NLP, and Real-time apps
-- 📚 Currently working on: Flutter Mobile App Development with Firebase Integration
-- 🌟 Passionate about building scalable applications and smart systems
+-  Pursuing B.E. in Information Science Engineering (CGPA: 8.8)
+-  Skilled in Flutter, Firebase, React, Node.js, NLP, and Real-time apps
+-  Currently working on: Flutter Mobile App Development with Firebase Integration
+-  Passionate about building scalable applications and smart systems
 
-## 🛠️ Skills
+## 🛠 Skills
 - **Languages:** C, Java, JavaScript, Python, HTML, CSS
 - **Frameworks & Libraries:** Flutter, React.js, Node.js, Express.js
 - **Technologies:** Firebase, MongoDB, Socket.io, REST APIs, Git, MySQL

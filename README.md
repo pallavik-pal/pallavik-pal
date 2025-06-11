@@ -34,6 +34,6 @@
 ## 📫 Connect with me
 - 📧 Email: pallavik15092004@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/pallavi-k-306b7a253)
-- 🔥 [GitHub](https://github.com/pallavik-pal)
+
 
 ---
